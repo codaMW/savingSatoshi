@@ -1,0 +1,5 @@
+opCode=$'44697374726963742032312c20426974636f696e2046726565646f6d205a6f6e65'
+echo ''
+echo $opCode | xxd -r -p
+echo ''
+echo ''
